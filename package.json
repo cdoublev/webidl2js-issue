@@ -1,0 +1,16 @@
+{
+  "name": "webidl2js-poc-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "node generate-wrappers.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webidl2js": "^17.0.0"
+  }
+}
